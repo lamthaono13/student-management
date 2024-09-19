@@ -1,0 +1,10 @@
+C:\Users\PC\Downloads\csharp-winforms-crud-master\CRUD\bin\Release\CRUD.exe.config
+C:\Users\PC\Downloads\csharp-winforms-crud-master\CRUD\bin\Release\CRUD.exe
+C:\Users\PC\Downloads\csharp-winforms-crud-master\CRUD\bin\Release\CRUD.pdb
+C:\Users\PC\Downloads\csharp-winforms-crud-master\CRUD\obj\Release\CRUD.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\csharp-winforms-crud-master\CRUD\obj\Release\CRUD.Form1.resources
+C:\Users\PC\Downloads\csharp-winforms-crud-master\CRUD\obj\Release\CRUD.Properties.Resources.resources
+C:\Users\PC\Downloads\csharp-winforms-crud-master\CRUD\obj\Release\CRUD.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\csharp-winforms-crud-master\CRUD\obj\Release\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\csharp-winforms-crud-master\CRUD\obj\Release\CRUD.exe
+C:\Users\PC\Downloads\csharp-winforms-crud-master\CRUD\obj\Release\CRUD.pdb
